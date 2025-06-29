@@ -1,0 +1,17 @@
+
+=== Neofetch de Germán Stadelman ===
+
+vagrant@linux-practice 
+---------------------- 
+OS: Ubuntu 22.04.5 LTS x86_64 
+Host: VirtualBox 1.2 
+Kernel: 5.15.0-119-generic 
+Uptime: 4 hours, 15 mins 
+Packages: 691 (dpkg), 4 (snap) 
+Shell: bash 5.1.16 
+Resolution: 1024x768 
+Terminal: /dev/pts/0 
+CPU: AMD Ryzen 5 PRO 4650G with Radeon Graphics (2) @ 3.999GHz 
+GPU: VirtualBox Graphics Adapter 
+Memory: 226MiB / 1963MiB 
+
