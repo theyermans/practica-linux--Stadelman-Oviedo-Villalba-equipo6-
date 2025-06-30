@@ -1,0 +1,26 @@
+========== VERIFICACIÓN DE ARCHIVOS -- Villalba ==========
+Estructura de directorios creada:
+/mnt/almacenamiento_villalba
+/mnt/almacenamiento_villalba/lost+found
+/mnt/almacenamiento_villalba/temporal
+/mnt/almacenamiento_villalba/proyectos
+/mnt/almacenamiento_villalba/proyectos/activos
+/mnt/almacenamiento_villalba/proyectos/archivados
+/mnt/almacenamiento_villalba/respaldos
+Archivos en cada directorio:
+-rw-r--r-- 1 root root 27 Jun 30 02:05 /mnt/almacenamiento_villalba/temporal/documento__05.txt
+-rw-r--r-- 1 root root 27 Jun 30 02:05 /mnt/almacenamiento_villalba/temporal/documento__02.txt
+-rw-r--r-- 1 root root 27 Jun 30 02:05 /mnt/almacenamiento_villalba/temporal/documento__03.txt
+-rw-r--r-- 1 root root 27 Jun 30 02:05 /mnt/almacenamiento_villalba/temporal/documento__01.txt
+-rw-r--r-- 1 root root 27 Jun 30 02:05 /mnt/almacenamiento_villalba/temporal/documento__04.txt
+-rw-r--r-- 1 root root 27 Jun 30 02:06 /mnt/almacenamiento_villalba/proyectos/activos/documento__05.txt
+-rw-r--r-- 1 root root 27 Jun 30 02:06 /mnt/almacenamiento_villalba/proyectos/activos/documento__02.txt
+-rw-r--r-- 1 root root 27 Jun 30 02:06 /mnt/almacenamiento_villalba/proyectos/activos/documento__03.txt
+-rw-r--r-- 1 root root 27 Jun 30 02:06 /mnt/almacenamiento_villalba/proyectos/activos/documento__01.txt
+-rw-r--r-- 1 root root 27 Jun 30 02:06 /mnt/almacenamiento_villalba/proyectos/activos/documento__04.txt
+-rw-r--r-- 1 root root 27 Jun 30 02:05 /mnt/almacenamiento_villalba/proyectos/archivados/documento__08.txt
+-rw-r--r-- 1 root root 27 Jun 30 02:05 /mnt/almacenamiento_villalba/proyectos/archivados/documento__07.txt
+-rw-r--r-- 1 root root 27 Jun 30 02:05 /mnt/almacenamiento_villalba/proyectos/archivados/documento__06.txt
+-rw-r--r-- 1 root root 27 Jun 30 02:07 /mnt/almacenamiento_villalba/respaldos/documento__09.txt
+-rw-r--r-- 1 root root 27 Jun 30 02:07 /mnt/almacenamiento_villalba/respaldos/documento__10.txt
+
