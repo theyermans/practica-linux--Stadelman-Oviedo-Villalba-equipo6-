@@ -1,6 +1,3 @@
-
-=== Neofetch de Germán Stadelman ===
-
 vagrant@linux-practice 
 ---------------------- 
 OS: Ubuntu 22.04.5 LTS x86_64 
