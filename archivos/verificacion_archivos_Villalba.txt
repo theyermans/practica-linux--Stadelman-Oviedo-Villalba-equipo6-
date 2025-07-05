@@ -1,0 +1,78 @@
+========== VERIFICACIÓN DE ARCHIVOS -- Villalba ==========
+Estructura de directorios creada:
+/mnt/almacenamiento_villalba
+/mnt/almacenamiento_villalba/lost+found
+/mnt/almacenamiento_villalba/temporal
+/mnt/almacenamiento_villalba/proyectos
+/mnt/almacenamiento_villalba/proyectos/activos
+/mnt/almacenamiento_villalba/proyectos/archivados
+/mnt/almacenamiento_villalba/respaldos
+Archivos en cada directorio:
+-rw-r--r-- 1 root root 27 Jun 30 02:05 /mnt/almacenamiento_villalba/temporal/documento__05.txt
+-rw-r--r-- 1 root root 27 Jun 30 02:05 /mnt/almacenamiento_villalba/temporal/documento__02.txt
+-rw-r--r-- 1 root root 27 Jun 30 02:05 /mnt/almacenamiento_villalba/temporal/documento__03.txt
+-rw-r--r-- 1 root root 27 Jun 30 02:05 /mnt/almacenamiento_villalba/temporal/documento__01.txt
+-rw-r--r-- 1 root root 27 Jun 30 02:05 /mnt/almacenamiento_villalba/temporal/documento__04.txt
+-rw-r--r-- 1 root root 27 Jun 30 02:06 /mnt/almacenamiento_villalba/proyectos/activos/documento__05.txt
+-rw-r--r-- 1 root root 27 Jun 30 02:06 /mnt/almacenamiento_villalba/proyectos/activos/documento__02.txt
+-rw-r--r-- 1 root root 27 Jun 30 02:06 /mnt/almacenamiento_villalba/proyectos/activos/documento__03.txt
+-rw-r--r-- 1 root root 27 Jun 30 02:06 /mnt/almacenamiento_villalba/proyectos/activos/documento__01.txt
+-rw-r--r-- 1 root root 27 Jun 30 02:06 /mnt/almacenamiento_villalba/proyectos/activos/documento__04.txt
+-rw-r--r-- 1 root root 27 Jun 30 02:05 /mnt/almacenamiento_villalba/proyectos/archivados/documento__08.txt
+-rw-r--r-- 1 root root 27 Jun 30 02:05 /mnt/almacenamiento_villalba/proyectos/archivados/documento__07.txt
+-rw-r--r-- 1 root root 27 Jun 30 02:05 /mnt/almacenamiento_villalba/proyectos/archivados/documento__06.txt
+-rw-r--r-- 1 root root 27 Jun 30 02:07 /mnt/almacenamiento_villalba/respaldos/documento__09.txt
+-rw-r--r-- 1 root root 27 Jun 30 02:07 /mnt/almacenamiento_villalba/respaldos/documento__10.txt
+===== VERIFICACIÓN DE ARCHIVOS - STADELMAN =====
+Estructura de directorios creada:
+/mnt/almacenamiento_stadelman
+/mnt/almacenamiento_stadelman/temporal
+/mnt/almacenamiento_stadelman/lost+found
+/mnt/almacenamiento_stadelman/proyectos
+/mnt/almacenamiento_stadelman/proyectos/activos
+/mnt/almacenamiento_stadelman/proyectos/archivados
+/mnt/almacenamiento_stadelman/respaldos
+Archivos en cada directorio:
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  4 15:53 /mnt/almacenamiento_stadelman/temporal/documento_07.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  4 15:53 /mnt/almacenamiento_stadelman/temporal/documento_05.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  4 15:53 /mnt/almacenamiento_stadelman/temporal/documento_03.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  4 15:53 /mnt/almacenamiento_stadelman/temporal/documento_06.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  4 15:53 /mnt/almacenamiento_stadelman/temporal/documento_02.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  4 15:53 /mnt/almacenamiento_stadelman/temporal/documento_04.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  4 15:53 /mnt/almacenamiento_stadelman/temporal/documento_08.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  4 15:53 /mnt/almacenamiento_stadelman/temporal/documento_01.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  4 15:53 /mnt/almacenamiento_stadelman/proyectos/activos/documento_05.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  4 15:53 /mnt/almacenamiento_stadelman/proyectos/activos/documento_03.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  4 15:53 /mnt/almacenamiento_stadelman/proyectos/activos/documento_02.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  4 15:53 /mnt/almacenamiento_stadelman/proyectos/activos/documento_04.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  4 15:53 /mnt/almacenamiento_stadelman/proyectos/activos/documento_01.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  4 15:54 /mnt/almacenamiento_stadelman/respaldos/documento_10.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  4 15:53 /mnt/almacenamiento_stadelman/respaldos/documento_09.txt
+===== VERIFICACIÓN DE ARCHIVOS - STADELMAN =====
+Estructura de directorios creada:
+/mnt/almacenamiento_stadelman
+/mnt/almacenamiento_stadelman/temporal
+/mnt/almacenamiento_stadelman/lost+found
+/mnt/almacenamiento_stadelman/proyectos
+/mnt/almacenamiento_stadelman/proyectos/activos
+/mnt/almacenamiento_stadelman/proyectos/archivados
+/mnt/almacenamiento_stadelman/respaldos
+Archivos en cada directorio:
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  4 15:53 /mnt/almacenamiento_stadelman/temporal/documento_07.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  4 15:53 /mnt/almacenamiento_stadelman/temporal/documento_05.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  4 15:53 /mnt/almacenamiento_stadelman/temporal/documento_03.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  4 15:53 /mnt/almacenamiento_stadelman/temporal/documento_06.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  4 15:53 /mnt/almacenamiento_stadelman/temporal/documento_02.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  4 15:53 /mnt/almacenamiento_stadelman/temporal/documento_04.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  4 15:53 /mnt/almacenamiento_stadelman/temporal/documento_08.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  4 15:53 /mnt/almacenamiento_stadelman/temporal/documento_01.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  4 15:53 /mnt/almacenamiento_stadelman/proyectos/activos/documento_05.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  4 15:53 /mnt/almacenamiento_stadelman/proyectos/activos/documento_03.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  4 15:53 /mnt/almacenamiento_stadelman/proyectos/activos/documento_02.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  4 15:53 /mnt/almacenamiento_stadelman/proyectos/activos/documento_04.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  4 15:53 /mnt/almacenamiento_stadelman/proyectos/activos/documento_01.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  4 15:54 /mnt/almacenamiento_stadelman/respaldos/documento_10.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  4 15:53 /mnt/almacenamiento_stadelman/respaldos/documento_09.txt
+
+
+

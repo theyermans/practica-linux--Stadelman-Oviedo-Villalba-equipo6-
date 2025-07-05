@@ -1,0 +1,11 @@
+========== INFORMACIÓN DE USUARIOS Y GRUPOS -- VILLALBA ==========
+Usuario actual:
+vagrant
+Grupos del usuario:
+vagrant docker
+ID del usuario:
+uid=1000(vagrant) gid=1000(vagrant) groups=1000(vagrant),121(docker)
+Usuarios del sistema:
+estudiante1:x:1003:1003::/home/estudiante1:/bin/sh
+estudiante2:x:1004:1004::/home/estudiante2:/bin/sh
+estudiante3:x:1005:1005::/home/estudiante3:/bin/sh
