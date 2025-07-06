@@ -35,8 +35,8 @@
 
 ---
 # 2. Ejecucion de Neofetch
-### -Cada alumno ejecuto la herramienta neofetch para mostrar la informacion de su sistema, ubicado en la carpeta "informacion" del proyecto.
-### -Alli se puede visualizar detalles sobre el sistema operativo, kernel, CPU, memoria, etc de cada alumno. 
+### -Cada alumno ejecuto la herramienta neofetch para mostrar la informacion de su sistema, ubicado en la carpeta proyecto/informacion/.
+### -Alli se puede visualizar detalles sobre el sistema operativo, kernel, CPU, memoria, de cada alumno. 
 
 ---
 # 3. Gestión de Usuarios y Permisos
