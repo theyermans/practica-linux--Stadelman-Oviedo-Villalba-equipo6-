@@ -1,3 +1,0 @@
-total 8
-drwxrwx---  2 root equipotrabajo 4096 Jun 28 20:31 .
-drwxrwxrwt 12 root root          4096 Jun 29 01:39 ..
