@@ -17,7 +17,7 @@
 ## - Docker
 ### Plataforma que permite empaquetar aplicaciones junto con todas sus dependencias en contenedores ligeros y portables.
 ---
-## Distribucion De Tareas
+# Distribucion De Tareas
 
 | Integrante | Rol           | Principales Tareas                                                |
 | ---------- | ------------- | ----------------------------------------------------------------- |
