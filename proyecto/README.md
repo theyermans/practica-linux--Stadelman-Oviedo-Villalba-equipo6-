@@ -65,6 +65,7 @@
 
 ---
 # Estructura Final del Proyecto
+![image](https://github.com/user-attachments/assets/d49793f4-2472-4db0-8410-daa9012220c1)
 
 ---
 # Conclusion Final
