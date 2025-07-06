@@ -68,4 +68,4 @@
 
 ---
 # Conclusion Final
-Este trabajo nos permitió aplicar prácticas esenciales de administración de sistemas Linux, automatización de entornos virtuales, control de versiones y gestión de contenedores, simulando un entorno colaborativo real.
+### Este trabajo nos permitió aplicar prácticas esenciales de administración de sistemas Linux, automatización de entornos virtuales, control de versiones y gestión de contenedores, simulando un entorno colaborativo real.
