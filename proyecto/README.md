@@ -26,7 +26,7 @@
 | Alumno C   | Operador      | Gestión de archivos, directorios, testing y validación            |
 
 ---
-# 1. Configuracion Entorno De Trabajo
+# 1. Configuracion Entorno de Trabajo
 ### - Cada integrante creo su repositorio en github para trabajar de manera local.
 ### - Clonado y configuración de Git en cada VM.
 ### - Uso de pulls y commits colaborativos.
