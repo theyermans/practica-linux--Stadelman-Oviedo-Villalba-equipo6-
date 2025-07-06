@@ -2,7 +2,7 @@
 ## Marcos Villalba (Almumno A) | German Stadelman (Alumno B y C)
 [REPOSITORIO](https://github.com/theyermans/practica-linux--Stadelman-Oviedo-Villalba-equipo6-)
 
-### Este proyecto tiene como objetivo entender los conceptos generales de los sistemas operativos y sus procesos, en este caso trabajando en un entorno virtual mediante gnu/linux.
+### Este proyecto tiene como objetivo entender los conceptos generales de los sistemas operativos y sus procesos, en este caso trabajando en un entorno virtual mediante GNU/linux.
 ### Para el desarrollo y ejecucion del entorno, se utilizo la herramienta Vagrant con sus respectivas configuraciones.
 ---
 # Tecnologias Utilizadas
