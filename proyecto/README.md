@@ -1,5 +1,5 @@
 # TP FINAL - ARQUITECTURA Y SISTEMAS OPERATIVOS - COMISION 319
-## Marcos Villalba (Almumno A) | German Stadelman (Alumno B y C)
+## Marcos Villalba (Alumno A) | German Stadelman (Alumno B y C)
 [REPOSITORIO](https://github.com/theyermans/practica-linux--Stadelman-Oviedo-Villalba-equipo6-)
 
 ### Este proyecto tiene como objetivo entender los conceptos generales de los sistemas operativos y sus procesos, en este caso trabajando en un entorno virtual mediante GNU/linux.
